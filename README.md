@@ -64,3 +64,9 @@
 ✅ Works offline via SMS
 ✅ Encourages digital literacy and inclusion
 
+Contributers:
+1. Snehalata G K
+2. Shweta R Dalal
+3. Chandana R
+4. Wajeeha Fathima
+
